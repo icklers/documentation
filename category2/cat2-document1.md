@@ -1,3 +1,8 @@
+---
+title: Absumpsit ire obsessae cornua
+category: category2
+---
+
 # Absumpsit ire obsessae cornua
 
 ## Exurunt est tempore vulnus
